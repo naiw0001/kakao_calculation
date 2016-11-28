@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/run_img1" android:duration="10"/>
+    <item android:drawable="@drawable/run_img2" android:duration="10"/>
+    <item android:drawable="@drawable/run_img3" android:duration="10"/>
+    <item android:drawable="@drawable/run_img4" android:duration="10"/>
+    <item android:drawable="@drawable/run_img5" android:duration="10"/>
+    <item android:drawable="@drawable/run_img6" android:duration="10"/>
+    <item android:drawable="@drawable/run_img7" android:duration="10"/>
+    <item android:drawable="@drawable/run_img8" android:duration="10"/>
+    <item android:drawable="@drawable/run_img9" android:duration="10"/>
+    <item android:drawable="@drawable/run_img10" android:duration="10"/>
+    <item android:drawable="@drawable/run_img9" android:duration="10"/>
+    <item android:drawable="@drawable/run_img8" android:duration="10"/>
+    <item android:drawable="@drawable/run_img7" android:duration="10"/>
+    <item android:drawable="@drawable/run_img6" android:duration="10"/>
+    <item android:drawable="@drawable/run_img5" android:duration="10"/>
+    <item android:drawable="@drawable/run_img4" android:duration="10"/>
+    <item android:drawable="@drawable/run_img3" android:duration="10"/>
+    <item android:drawable="@drawable/run_img2" android:duration="10"/>
+    <item android:drawable="@drawable/run_img1" android:duration="10"/>
+
+</animation-list>
